@@ -15,7 +15,7 @@ This project is a chatbot designed to answer "how-to" questions related to four 
 
 ## Tech Stack
 
-- **Frontend**: React.js (for user interface)
+- **UI**: React.js (for user interface)
 - **Natural Language Processing (NLP)**: OpenAI GPT (for understanding and answering user queries)
 - **Styling**: Tailwind CSS (for responsive design)
 - **Version Control**: Git and GitHub
@@ -34,19 +34,16 @@ This project is a chatbot designed to answer "how-to" questions related to four 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chatbot-cdp.git
-cd chatbot-cdp
+git clone https://github.com/vishnumora79/zeotap-assignment-2.git
+cd zeotap-assignment-2
 ```
-
-### Install Dependencies
 
 
 #### Run the application
 ```bash
-cd ../project
+npm install
 npm run dev 
 ```
-
 
 ---
 
